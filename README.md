@@ -1,4 +1,4 @@
-# node-api
+# nodejs-api
 GET: /alunos/:id - Busca um aluno específico por ID
 
 POST: /alunos - Cadastra um novo aluno
