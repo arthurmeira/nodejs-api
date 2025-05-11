@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "nome": "Ana Paula",
+        "sexo": "F",
+        "nota1": 7.1,
+        "nota2": 8.3
+    },
+    {
+        "id": 2,
+        "nome": "Bruno Silva",
+        "sexo": "M",
+        "nota1": 5.4,
+        "nota2": 6.1
+    },
+    {
+        "id": 3,
+        "nome": "Carla Mendes",
+        "sexo": "F",
+        "nota1": 9.0,
+        "nota2": 9.5
+    },
+    {
+        "id": 4,
+        "nome": "Daniel Rocha",
+        "sexo": "M",
+        "nota1": 3.2,
+        "nota2": 4.1
+    },
+    {
+        "id": 5,
+        "nome": "Eduarda Lima",
+        "sexo": "F",
+        "nota1": 6.0,
+        "nota2": 7.0
+    },
+    {
+        "id": 6,
+        "nome": "Felipe Martins",
+        "sexo": "M",
+        "nota1": 8.5,
+        "nota2": 7.9
+    },
+    {
+        "id": 7,
+        "nome": "Gabriela Torres",
+        "sexo": "F",
+        "nota1": 4.0,
+        "nota2": 5.0
+    },
+    {
+        "id": 8,
+        "nome": "Heitor Sousa",
+        "sexo": "M",
+        "nota1": 6.2,
+        "nota2": 6.8
+    },
+    {
+        "id": 9,
+        "nome": "Isabela Ferreira",
+        "sexo": "F",
+        "nota1": 9.8,
+        "nota2": 9.2
+    },
+    {
+        "id": 10,
+        "nome": "João Lucas",
+        "sexo": "M",
+        "nota1": 5.5,
+        "nota2": 5.0
+    },
+    {
+        "id": 11,
+        "nome": "Karen Oliveira",
+        "sexo": "F",
+        "nota1": 6.6,
+        "nota2": 7.0
+    },
+    {
+        "id": 12,
+        "nome": "Lucas Almeida",
+        "sexo": "M",
+        "nota1": 7.3,
+        "nota2": 6.4
+    },
+    {
+        "id": 13,
+        "nome": "Maria Clara",
+        "sexo": "F",
+        "nota1": 8.1,
+        "nota2": 8.9
+    },
+    {
+        "id": 14,
+        "nome": "Nicolas Vieira",
+        "sexo": "M",
+        "nota1": 4.0,
+        "nota2": 3.9
+    },
+    {
+        "id": 15,
+        "nome": "Olívia Rocha",
+        "sexo": "F",
+        "nota1": 7.5,
+        "nota2": 6.5
+    },
+    {
+        "id": 16,
+        "nome": "Pedro Henrique",
+        "sexo": "M",
+        "nota1": 6.0,
+        "nota2": 6.5
+    },
+    {
+        "id": 17,
+        "nome": "Queila Santos",
+        "sexo": "F",
+        "nota1": 5.0,
+        "nota2": 4.0
+    },
+    {
+        "id": 18,
+        "nome": "Rafael Lopes",
+        "sexo": "M",
+        "nota1": 7.9,
+        "nota2": 8.2
+    },
+    {
+        "id": 19,
+        "nome": "Sara Pires",
+        "sexo": "F",
+        "nota1": 9.5,
+        "nota2": 9.8
+    },
+    {
+        "id": 20,
+        "nome": "Tiago Costa",
+        "sexo": "M",
+        "nota1": 2.0,
+        "nota2": 3.5
+    },
+    {
+        "id": 21,
+        "nome": "Ursula Martins",
+        "sexo": "F",
+        "nota1": 6.8,
+        "nota2": 7.4
+    },
+    {
+        "id": 22,
+        "nome": "Vinícius Nunes",
+        "sexo": "M",
+        "nota1": 4.4,
+        "nota2": 5.1
+    },
+    {
+        "id": 23,
+        "nome": "Wesley Moura",
+        "sexo": "M",
+        "nota1": 7.5,
+        "nota2": 6.8
+    },
+    {
+        "id": 24,
+        "nome": "Ximena Rios",
+        "sexo": "F",
+        "nota1": 8.0,
+        "nota2": 8.0
+    },
+    {
+        "id": 25,
+        "nome": "Yara Queiroz",
+        "sexo": "F",
+        "nota1": 5.9,
+        "nota2": 6.1
+    },
+    {
+        "id": 26,
+        "nome": "Zeca Oliveira",
+        "sexo": "M",
+        "nota1": 4.5,
+        "nota2": 3.5
+    },
+    {
+        "id": 27,
+        "nome": "Amanda Reis",
+        "sexo": "F",
+        "nota1": 9.9,
+        "nota2": 10.0
+    },
+    {
+        "id": 28,
+        "nome": "Breno Costa",
+        "sexo": "M",
+        "nota1": 6.3,
+        "nota2": 5.7
+    },
+    {
+        "id": 29,
+        "nome": "Camila Braga",
+        "sexo": "F",
+        "nota1": 7.8,
+        "nota2": 8.4
+    },
+    {
+        "id": 30,
+        "nome": "Diego Mello",
+        "sexo": "M",
+        "nota1": 6.7,
+        "nota2": 6.3
+    },
+    {
+        "id": 31,
+        "nome": "Elaine Dias",
+        "sexo": "F",
+        "nota1": 4.5,
+        "nota2": 5.0
+    },
+    {
+        "id": 32,
+        "nome": "Fabrício Leal",
+        "sexo": "M",
+        "nota1": 3.5,
+        "nota2": 4.5
+    },
+    {
+        "id": 33,
+        "nome": "Giovana Luz",
+        "sexo": "F",
+        "nota1": 8.8,
+        "nota2": 9.0
+    },
+    {
+        "id": 34,
+        "nome": "Hugo Barros",
+        "sexo": "M",
+        "nota1": 7.2,
+        "nota2": 6.9
+    },
+    {
+        "id": 35,
+        "nome": "Irene Peixoto",
+        "sexo": "F",
+        "nota1": 5.5,
+        "nota2": 5.5
+    },
+    {
+        "id": 36,
+        "nome": "Jorge Lemos",
+        "sexo": "M",
+        "nota1": 8.3,
+        "nota2": 7.9
+    },
+    {
+        "id": 37,
+        "nome": "Karla Silva",
+        "sexo": "F",
+        "nota1": 6.6,
+        "nota2": 6.4
+    },
+    {
+        "id": 38,
+        "nome": "Leonardo Campos",
+        "sexo": "M",
+        "nota1": 4.8,
+        "nota2": 4.2
+    },
+    {
+        "id": 39,
+        "nome": "Mariana Dias",
+        "sexo": "F",
+        "nota1": 9.2,
+        "nota2": 9.4
+    },
+    {
+        "id": 40,
+        "nome": "Natan Farias",
+        "sexo": "M",
+        "nota1": 5.5,
+        "nota2": 6.2
+    },
+    {
+        "id": 41,
+        "nome": "Olga Monteiro",
+        "sexo": "F",
+        "nota1": 6.0,
+        "nota2": 7.0
+    },
+    {
+        "id": 42,
+        "nome": "Pablo Araújo",
+        "sexo": "M",
+        "nota1": 3.0,
+        "nota2": 2.0
+    },
+    {
+        "id": 43,
+        "nome": "Quésia Andrade",
+        "sexo": "F",
+        "nota1": 6.3,
+        "nota2": 6.9
+    },
+    {
+        "id": 44,
+        "nome": "Rogério Freitas",
+        "sexo": "M",
+        "nota1": 7.4,
+        "nota2": 7.0
+    },
+    {
+        "id": 45,
+        "nome": "Sabrina Lopes",
+        "sexo": "F",
+        "nota1": 8.6,
+        "nota2": 8.8
+    },
+    {
+        "id": 46,
+        "nome": "Tadeu Amaral",
+        "sexo": "M",
+        "nota1": 5.2,
+        "nota2": 5.4
+    },
+    {
+        "id": 47,
+        "nome": "Úrsula Silva",
+        "sexo": "F",
+        "nota1": 9.1,
+        "nota2": 9.3
+    },
+    {
+        "id": 48,
+        "nome": "Victor Cunha",
+        "sexo": "M",
+        "nota1": 4.0,
+        "nota2": 4.3
+    },
+    {
+        "id": 49,
+        "nome": "Wendy Rocha",
+        "sexo": "F",
+        "nota1": 7.0,
+        "nota2": 6.6
+    },
+    {
+        "id": 50,
+        "nome": "Xavier Torres",
+        "sexo": "M",
+        "nota1": 6.1,
+        "nota2": 5.9
+    }
+]
