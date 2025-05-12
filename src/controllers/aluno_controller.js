@@ -45,10 +45,27 @@ async function listarSituacaoAlunos(req, res) {
     } 
 }
 
+<<<<<<< HEAD
+=======
+async function listarMediaPorSexo(req, res) {
+    try {
+        const mediaPorSexo = await alunoService.obterSituacaoAluno();
+        res.status(200).json(mediaPorSexo);
+    } catch (erro) {
+        res.status(500).json({ mensagem: "Erro ao listar media por sexo dos alunos "});
+    } 
+}
+
+>>>>>>> f2e9ad2 (Criação endpoint para filtrar media e sexo de alunos)
 module.exports = {
     listarAlunos,
     listarAlunosFem,
     listarAlunosMasc,
     listarMediaAlunos,
+<<<<<<< HEAD
     listarSituacaoAlunos
+=======
+    listarSituacaoAlunos,
+    listarMediaPorSexo
+>>>>>>> f2e9ad2 (Criação endpoint para filtrar media e sexo de alunos)
 };
